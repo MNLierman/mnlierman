@@ -5,24 +5,28 @@ I'm Mike, a business owner and IT professional with a passion for doing more wit
 
 ### My Businesses
 * @InviseSolutions: Founded over 15 years ago, Invise Solutions started as a computer repair business from a spare bedroom. Today, it's a full-fledged IT company offering services and solutions to local businesses in Utah County. I lead a talented team of technicians who you may occasionally see in action.
-* @InviseLabs: This is where I house all my coding and programming projects. From tools to programs that solve IT problems, Invise Labs is a testament to my passion for coding and continuous learning.
+* @InviseLabs: From a fly-by-night project to an actual business. Many of the programming projects I create, lead, and direct can be found here. Many scripts are on my personal profile, but if it ends up being a project, you'll find it at Invise Labs. From tools to programs that solve IT problems, Invise Labs is a testament to my passion for coding and continuous learning.
 * @LiermanCo: Another venture where I explore new challenges and opportunities, driven by curiosity and a restless mind.
+
+<br/>
+<h4 style="color:pink">(Not reflective of all stats – many repos are private or owned by orgs)</h4>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnlierman&theme=dracula&include_all_commits=true" />
+<img width=700 src="https://github.com/user-attachments/assets/dfe89f07-05f1-4535-b49c-571a04bfe7fc" />
+
+
 
 ### My Skills
 I have expertise in various programming languages and technologies. Here's just a few:
 
-* Bash
-* Scripting
-* C#
-* PHP
-* JavaScript
-* Java
-* SysAdmin
-* Servers
-* IT and Networking
-* Web Developement
-* Scripting
-* And much more...
+|                     |                        |
+|---------------------|------------------------|
+|* Bash               |* SysAdmin              |
+|* Scripting          |* Servers               |
+|* C#                 |* IT and Networking     |
+|* PHP                |* Web Development       |
+|* JavaScript         |* Scripting             |
+|* Java               |* And much more...      |
+
 
 ## My Journey
 Passion and curiosity drive me to explore new challenges and opportunities. I have a restless mind that never stops learning, and I strive for excellence in everything I do. When I was 15, I launched Invise Solutions, a computer repair business, from a spare bedroom converted into an office. Since then, my work has become dynamic and diverse. Many may not recognize me as that teenager I was; I have grown up, and so has my business. Invise Solutions is now a full-fledged IT company that offers services to people and designs and implements IT solutions for local businesses in Utah County.

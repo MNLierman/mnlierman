@@ -15,12 +15,10 @@ Where it began: My ventures in coding never made their way into a job or carrer,
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnlierman&theme=dracula&include_all_commits=true" />
 <img width=700 src="https://github.com/user-attachments/assets/dfe89f07-05f1-4535-b49c-571a04bfe7fc" />
 
+<br/><br/>
+<br/>
 
-
-### My Skills
-I have expertise in various programming languages and technologies. Here's just a few:
-
-|                     |                        |
+| @MNLierman's |Skills                         |
 |---------------------|------------------------|
 |* Bash               |* SysAdmin              |
 |* Scripting          |* Servers               |
@@ -29,7 +27,9 @@ I have expertise in various programming languages and technologies. Here's just 
 |* JavaScript         |* Scripting             |
 |* Java               |* And much more...      |
 
+Just a few of my skills and areas of experise.
 
+<br/><br/>
 ## My Journey
 Passion and curiosity drive me to explore new challenges and opportunities. I have a restless mind that never stops learning, and I strive for excellence in everything I do. When I was 15, I launched Invise Solutions, a computer repair business, from a spare bedroom converted into an office. Since then, my work has become dynamic and diverse. Many may not recognize me as that teenager I was; I have grown up, and so has my business. Invise Solutions is now a full-fledged IT company that offers services to people and designs and implements IT solutions for local businesses in Utah County.
 

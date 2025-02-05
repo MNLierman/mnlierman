@@ -5,6 +5,8 @@ I'm Mike, a **business owner and IT professional** with a passion persuing every
 
 Where it began: My ventures in coding never made their way into a job or carrer, I took an alternative path in technology, instead persuing a business in IT. But before that, at the age of 9, my brother-in-law gave me a copy of MSDN Visual Studio 2002, and this piqued my curiosity. This sparked my curious mind in the world of code, which never was satisified.
 
+My introduction to the world of code came at the young age pof 9-years-old, courtesy of a copy of MSDN Visual Studio 2002 gited to me by a family member. Though my professional focus shifted to starting an IT business and pursuing a career an IT, that initial spark of curiosity ignited by those experiences with Visual Studio has continued to fuel my personal exploration of programming.
+
 ### My Businesses
 * **@InviseSolutions [🔗](https://invisesolutions.com):** Founded over 15 years ago, Invise Solutions started as a computer repair business from a spare bedroom. Today, it's a full-fledged IT company offering services and solutions to local businesses in Utah County. I lead a talented team of technicians who you may occasionally see in action.
 * **@InviseLabs [🔗](https://github.com/InviseLabs):** From a fly-by-night project to an actual business. Many of the programming projects I create, lead, and direct can be found here. Many scripts are on my personal profile, but if it ends up being a project, you'll find it at Invise Labs. From tools to programs that solve IT problems, Invise Labs is a testament to my passion for coding and continuous learning.

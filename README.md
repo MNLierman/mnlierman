@@ -3,12 +3,12 @@
 
 I'm Mike, a **business owner and IT professional** with a passion persuing everyday challenges and learning beyond what I'm currently capable of. Which is how I landed here on GitHub - a drive and desire to learn DevOps, and explore the world of coding and programming that I learned as a kid. I enjoy sharing my knowledge and creations with the community to help others. On my GitHub, you will find random projects, trinkets, scripts, code, and hacks I've created throughout my daily life in tech. If ideas make their way into bigger projects, then they will eventually find a home at [Invise Labs](https://github.com/InviseLabs) - a venture I created to host my larger side projects and contributions - all of which are currently free.
 
-**Where it began:** My introduction to the world of code began at the young age of 9-years-old, courtesy of a copy of MSDN Visual Studio 2002 gited to me by a family member. Though my professional focus shifted to starting an IT business and pursuing a career an IT, that initial spark of curiosity ignited by those experiences with Visual Studio has continued to fuel my personal exploration of programming.
+**Where it began:** My introduction to the world of programming began at the young age of 9-years-old, courtesy of a copy of MSDN Visual Studio 2002 gited to me by a family member. Though my professional focus shifted to starting an IT business and pursuing a career an IT, that initial spark of curiosity ignited by those early experiences with Visual Studio fueled what has become an on-going exploration into the world of DevOps and programming.
 
 ### My Businesses
 * **@InviseSolutions [🔗](https://invisesolutions.com):** Founded over 15 years ago, Invise Solutions started as a computer repair business from a spare bedroom. Today, it's a full-fledged IT company offering services and solutions to local businesses in Utah County. I lead a talented team of technicians who you may occasionally see in action.
 * **@InviseLabs [🔗](https://github.com/InviseLabs):** From a fly-by-night project to an actual business. Many of the programming projects I create, lead, and direct can be found here. Many scripts are on my personal profile, but if it ends up being a project, you'll find it at Invise Labs. From tools to programs that solve IT problems, Invise Labs is a testament to my passion for coding and continuous learning.
-* **@LiermanCo [🔗](https://lierman.co):** Another venture where I explore new challenges and opportunities, driven by curiosity and a restless mind.
+* **@LiermanCo [🔗](https://lierman.co):** Another venture where I explore new challenges and opportunities, driven by curiosity and a relentless mind.
 
 <br/>
 <h4 style="color:pink">(Not reflective of all stats – many repos are private or owned by orgs)</h4>
